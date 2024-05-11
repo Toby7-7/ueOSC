@@ -1,5 +1,7 @@
-# ueOSC とは
-VMC4UE で OSC 受信するためのモジュールです。
+# support UE 5.2
+
+# ueOSC とは   # ueOSC是什么   # ueOSC是什么
+VMC4UE で OSC 受信するためのモジュールです。VMC4UE接收OSC的模块。
 
 ## 動作環境
 - UE4.26
@@ -8,10 +10,10 @@ VMC4UE で OSC 受信するためのモジュールです。
 - UE5.1
 
 ## ライセンス
-MIT
+MIT   用
 
 ## 作者
-[はるく](https://twitter.com/HAL9_HARUKU)
+[はるく   春克](https://twitter.com/HAL9_HARUKU)
 
 ## 履歴
 2022/11/20 v0.2.4
